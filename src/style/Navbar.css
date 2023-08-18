@@ -1,0 +1,20 @@
+.NavBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.NavBar .Home {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 72px;
+  width: 1600px;
+  margin-left: 50px;
+  background-color: rgb(173, 133, 211);
+}
+
+.link {
+  margin: 10px;
+}
